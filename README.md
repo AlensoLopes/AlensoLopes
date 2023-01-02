@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm NoStrqfe</h1>
+<h1 align="center">Hi 👋, I'm Alenso Lopes</h1>
 <h3 align="center">A passionate AI developer from France</h3>
 
 - 🌱 I’m currently learning **Deep Learning**
