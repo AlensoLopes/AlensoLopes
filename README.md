@@ -2,12 +2,14 @@
 <h3 align="center">A passionate AI developer from France</h3>
 
 - 🌱 I’m currently learning **Deep Learning**
+- 🌿 I’m currently learning **Java**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/nostrqfe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nostrqfe" height="30" width="40" /></a></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/?username=alensolopes&show_icons=true&bg_color=00000000" alt="alensolopes" /></p>
+| <a href="https://github.com/alensolopes"><img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/?username=alensolopes&show_icons=tru&theme=tokyonight" alt="alensolopes" /></a> | <a href="https://github.com/alensolopes"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alensolopes&layout=compact&theme=tokyonight&hide_border=true" /></a> |
+| ------------- | ------------- |
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> </p>
