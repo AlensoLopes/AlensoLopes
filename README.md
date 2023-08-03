@@ -8,7 +8,7 @@
 <p align="left">
 <a href="https://twitter.com/nostrqfe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nostrqfe" height="30" width="40" /></a></p>
 
-| <a href="https://github.com/alensolopes"><img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/?username=alensolopes&show_icons=tru&theme=tokyonight" alt="alensolopes" /></a> | <a href="https://github.com/alensolopes"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alensolopes&layout=compact&theme=tokyonight&hide_border=true" /></a> |
+| <a href="https://github.com/alensolopes"><img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/?username=alensolopes&show_icons=tru&theme=tokyonight" alt="alensolopes" /></a> | <a href="https://github.com/alensolopes"><img align="center" src="https://github-readme-stats.zohan.tech/api/top-langs/?username=alensolopes&layout=compact&theme=tokyonight&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 <h3 align="left">Languages and Tools:</h3>
