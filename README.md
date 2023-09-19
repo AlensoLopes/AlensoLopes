@@ -2,7 +2,7 @@
 <h3 align="center">A passionate AI developer from France</h3>
 
 - 🌱 I’m currently learning **Deep Learning**
-- 🌿 I’m currently learning **Java**
+- 🌿 I’m currently learning **Javascript & TypeScript**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
